@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>276205139693-armivjj8g4nea9is819t6qhqq452ieec.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.276205139693-armivjj8g4nea9is819t6qhqq452ieec</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBxW1qx1XRPKKzIO6w7R_R-eNMhMw7-x-4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>276205139693</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Rababa.rababa</string>
+	<key>PROJECT_ID</key>
+	<string>rababa-3b366</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rababa-3b366.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:276205139693:ios:39cd373ee50961d0d6fee4</string>
+</dict>
+</plist>

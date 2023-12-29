@@ -1,0 +1,21 @@
+Firebase Auth provides a set of predefined error codes that are returned when an error occurs during authentication. Here's a list of the most common error codes:
+
+network-request-failed: A network error occurred during the authentication process.
+
+invalid-email: The email address provided is not valid.
+
+user-not-found: There is no user record corresponding to the provided email address.
+
+wrong-password: The password provided is incorrect.
+
+email-already-in-use: The email address is already in use by another account.
+
+weak-password: The password provided is too weak.
+
+user-disabled: The user account has been disabled.
+
+operation-not-allowed: The operation you are trying to perform is not allowed by the Firebase Auth service.
+
+too-many-requests: There have been too many attempts to perform this operation. Please try again later.
+
+These are some of the most common error codes returned by Firebase Auth. You can find a complete list of the error codes in the Firebase Auth API reference documentation.

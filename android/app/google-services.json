@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "276205139693",
+    "project_id": "rababa-3b366",
+    "storage_bucket": "rababa-3b366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276205139693:android:60f927a637c0e2e9d6fee4",
+        "android_client_info": {
+          "package_name": "com.Rababa.rababa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276205139693-aemeei5nmiclmea8mbhj0aet8i39trs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtsPgRlLWcMNX0nn4RsjvqDdDHbe8cLKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276205139693-aemeei5nmiclmea8mbhj0aet8i39trs5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276205139693-armivjj8g4nea9is819t6qhqq452ieec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Rababa.rababa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
